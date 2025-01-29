@@ -4,4 +4,5 @@ public class Solution{
                     x++;  
                     x++;  
                     System.out.print(x);  
-      }  
+      } 
+}
